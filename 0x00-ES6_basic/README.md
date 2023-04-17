@@ -1,0 +1,1 @@
+Basic JS with ES6 syntax
