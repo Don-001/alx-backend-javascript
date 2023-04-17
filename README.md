@@ -1,0 +1,1 @@
+This basic exercises will be the foundation of all JavaScript operations undertaken. It's main aim is to ensure proper undrestanding of the standard rules and synatx of JS.
